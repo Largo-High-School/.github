@@ -1,4 +1,4 @@
 # .github
-The largo high school coding club GitHub
-Put all of your projects in this organization.
+The Largo High School coding club GitHub.
+Could you put all of your projects in this organization?
 -D4LM
